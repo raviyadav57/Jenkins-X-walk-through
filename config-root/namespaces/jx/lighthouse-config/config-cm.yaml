@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - raviyadav57/Jenkins-X-walk-through
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.34.141.18.239.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
